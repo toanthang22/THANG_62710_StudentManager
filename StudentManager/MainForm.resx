@@ -117,32 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_9721364" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_9721364.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_97213642" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_97213642.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-red-flowing-background-brown-wallpaper-free-image_1688432" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-red-flowing-background-brown-wallpaper-free-image_1688432.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-clipart-lock-computer-icons-lock-miscellaneous-skeleton-key-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_97213641" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-user-flat-red-color-rounded-vector-icon-flat-personal-isolated-vector-picture-image_97213641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="background do (26)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\background do (26).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
