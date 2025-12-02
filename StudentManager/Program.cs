@@ -19,4 +19,4 @@ namespace StudentManager
             Application.Run(new Form1());
         }
     }
-}
+}//thang2
